@@ -46,8 +46,7 @@ scikit-learn
 
 ```
 military-health-tracker/
-├── app.py                                      # Streamlit dashboard
-├── military_ml_analysis.py                     # ML training script
+├── app.py                                      # Streamlit dashboard                     # ML training script
 ├── military_wearable_synthetic_500_rows.csv    # Dataset
 └── requirements.txt                            # Dependencies
 ```
@@ -76,10 +75,7 @@ military-health-tracker/
 streamlit run app.py
 ```
 
-### Train Models
-```bash
-python military_ml_analysis.py
-```
+
 
 ## Key Capabilities
 
