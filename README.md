@@ -19,7 +19,7 @@ The Military Health Tracker System analyzes 14+ physiological parameters to pred
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/military-health-tracker.git
+git clone https://github.com/unnkarm/healthdashx
 cd military-health-tracker
 
 # Install dependencies
