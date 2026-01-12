@@ -1,6 +1,6 @@
 # 🎖️ Military Health Tracker System
 
-AI-powered real-time health monitoring and predictive analytics for military personnel.
+ML-powered health monitoring and predictive analytics for military personnel.
 
 ## Overview
 
